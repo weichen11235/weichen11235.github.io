@@ -1,0 +1,14 @@
+Use case story:
+user wants to multiply/ add two numbers
+
+Assumption:
+None
+
+Steps:
+1. user enters a number
+2. user enters another number
+3. press either "multiply" or "add"
+4. result shows up
+
+Variable Interactions:
+None
