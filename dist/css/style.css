@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+main {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  padding-top: 3%; }
+  main h1 {
+    padding-bottom: 1.5rem; }
+  main form #input-group {
+    margin-bottom: 1rem; }
+    main form #input-group input {
+      padding: 7px; }
+  main form #btn-group input {
+    padding: 7px;
+    border: 1px grey solid;
+    cursor: pointer;
+    background-color: white;
+    transition: all 0.5s; }
+    main form #btn-group input:hover {
+      background-color: #EAEDED; }
